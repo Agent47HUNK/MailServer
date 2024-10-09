@@ -26,6 +26,14 @@ Initial basic configuration of Mail server in Fedora 21.
 - **Dovecot (`10-master.conf`)**:
   - Configuration for handling mail delivery and access.
 
+## Basic Postfix Configuration
+
+The following are the initial configurations made to the Postfix `main.cf` file to set up a basic mail server:
+
+- **myhostname**:  
+  Set to `mail.mymail.com` to define the fully qualified domain name of the mail server.  
+
+
 ## Usage
 - Test sending an email using Postfix.
 - Check received emails using Dovecot.
