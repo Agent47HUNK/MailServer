@@ -1,4 +1,4 @@
-# MailServer
+# Mail Server
 Initial basic configuration of Mail server in Fedora 21. 
 
 ## Overview
